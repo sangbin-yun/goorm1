@@ -1,1 +1,2 @@
 This is f2.txt file.
+git 실습2일차 내용을 추가하고 있습니다.
